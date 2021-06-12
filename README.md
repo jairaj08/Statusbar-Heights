@@ -1,13 +1,13 @@
-###Status Bar Heights
+### Status Bar Heights
 
 
-#About module
+# About module
 
 This Module will allow you to change your status bar Heights anytime without any reboots
 
 
 
-#Supported Devices
+# Supported Devices
 
 Tested on almost every Aosp roms using Android 10 and Android 11
 May work for Android 9 based roms too
@@ -16,7 +16,7 @@ For other Oem roms you can try yourself
 
 
 
-#Usage
+# Usage
 
 Go to display cutout (mostly found under developer options or display options in some roms) 
 You will now see different statusbar heights 
@@ -24,7 +24,7 @@ Select whichever height you like, enjoy
 No reboot needed
 
 
-#Channel and Groups 
+# Channel and Groups 
 
 Telegram group - @cool_modules69
 Telegram Channel - @cool_modules
